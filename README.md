@@ -15,7 +15,6 @@ title: |
 
 
 ### Carga académica, requisitos y equivalencias
-===========================================
 
 I.  **Carga académica** \[C-L-U:1.5-1.5-4\]: el curso tiene una carga
     académica semanal equivalente a 1.5 hrs de instrucción en clase, 1.5
@@ -29,7 +28,6 @@ II. **Requisitos**: El alumno deberá haber aprobado los cursos
 III. **Equivalencias**: El curso no tiene equivalencias.
 
 ### Intención general y objetivos de aprendizaje
-============================================
 
 * I.  **Intención general en el plan de estudios**: Es un curso avanzado
     que busca que el alumno se familiarice con métodos de simulación
@@ -56,7 +54,6 @@ III. **Equivalencias**: El curso no tiene equivalencias.
     empleando una narrativa acorde con el análisis prospectivo.
 
 ### Temario y calendario de actividades
-===================================
 
 El cuadro [\[tab:tabla1\]](#tab:tabla1){reference-type="ref"
 reference="tab:tabla1"} describe el calendario de seminarios del curso,
@@ -169,10 +166,9 @@ publicación y entrega de tareas.
 
 : **Tareas, lecturas y tareas**
 
-Metodología de enseñanza
-========================
+### Metodología de enseñanza
 
-I.  **Lineamientos generales:** El alumno deberá leer con anticipación
+* I.  **Lineamientos generales:** El alumno deberá leer con anticipación
     los capítulos asignados en el temario, esto propicia una interacción
     más dinámica en los seminarios y contribuye aclarar en clase, de
     manera más efectiva, dudas de los conceptos principales. Las
@@ -191,7 +187,7 @@ I.  **Lineamientos generales:** El alumno deberá leer con anticipación
     de métodos de Monte-Carlo y la segunda parte del curso
     exclusivamente en métodos de Robust Decision Making (RDM).
 
-II. **Actividades de aprendizaje conducidas por un docente:**
+* II. **Actividades de aprendizaje conducidas por un docente:**
 
     -   Exposición del marco teórico que sustenta los temas clave del
         curso:
@@ -212,7 +208,7 @@ II. **Actividades de aprendizaje conducidas por un docente:**
         los métodos discutidos en clase y necesarias para la realización
         de la serie de tareas
 
-III. **Actividades de aprendizaje independiente:**
+* III. **Actividades de aprendizaje independiente:**
 
     -   Lectura de la literatura asignada como preparación de cada
         seminario.
@@ -224,29 +220,28 @@ III. **Actividades de aprendizaje independiente:**
     -   Lectura de artículos de investigación que fomenten el análisis
         crítico de la investigación existente en el campo de estudio.
 
-Políticas de evaluación sugeridas
-=================================
+### Políticas de evaluación sugeridas
 
 La evaluación del aprendizaje de los alumnos se llevará a cabo empleando
 el siguiente criterio:
 
--   **Serie de tareas \[40%\]**: Ocho tareas que evalúan de manera
+* **Serie de tareas \[40%\]**: Ocho tareas que evalúan de manera
     progresiva el aprendizaje de los temas y métodos analíticos
     discutidos en clase.
 
--   **Examen parcial Métodos de Monte Carlo \[30%\]**: El primer examen
+*   **Examen parcial Métodos de Monte Carlo \[30%\]**: El primer examen
     parcial cubre los temas discutidos en las primeras ocho sesiones del
     curso sobre métodos de Monte-Carlo.
 
--   **Examen parcial Métodos RDM \[30%\]**: El segundo examen parcial
+*   **Examen parcial Métodos RDM \[30%\]**: El segundo examen parcial
     cubre los temas discutidos en la segunda parte del curso (i.e.
     sesiones 10 a 16) sobre los métodos de Robust Decision Making.
 
 Las tareas serán entregados el día indicado en el temario. Las tareas
 entregadas después de la fecha de entrega no serán consideradas:
 
-Bibliografía sugerida
-=====================
+#### Bibliografía sugerida
+
 
 En la primera parte del curso emplearemos dos libros de texto (i.e.
 Brandimarte, P. (2014), Law, A. M.,& Kelton, W. D. (1991)) que cubren de
@@ -258,7 +253,7 @@ muchos de los métodos RDM se encuentran aún en desarrollo también
 emplearemos artículos científicos especializados como literatura de
 referencia.
 
--   **Libros de texto**:
+*   **Libros de texto**:
 
     -   Brandimarte, P. (2014). Handbook in Monte Carlo simulation:
         applications in financial engineering, risk management, and
@@ -271,7 +266,7 @@ referencia.
     -   Law, A. M.,& Kelton, W. D. (1991). Simulation modeling and
         analysis (Third Edition). New York: McGraw-Hill
 
--   **Literatura de consulta**:
+*   **Literatura de consulta**:
 
     -   Ellsberg, D. (1961). Risk, ambiguity, and the Savage axioms. The
         quarterly journal of economics, 643-669
@@ -320,7 +315,7 @@ referencia.
         Change and Climate Policy (Doctoral dissertation, Pardee RAND
         Graduate School).
 
--   **Software**:
+*   **Software**:
 
     -   Para el desarrollo de los modelos de simulación, el diseño de
         experimentos y el análisis de resultados se empleará el lenguaje
@@ -330,15 +325,15 @@ referencia.
     -   El desarrollo de los script de trabajo se realizará empleando el
         editor de texto Atom, disponible en: https://atom.io/
 
-Perfil del profesor
-===================
+### Perfil del profesor
+
 
 Doctorado en Análisis de Sistemas y Política Pública, Doctorado en
 Política Pública, Doctorado en Ingeniería de Sistemas ó Doctorado en
 Investigación de Operaciones.
 
-Frases temáticas
-================
+### Frases temáticas
+
 
 Toma de decisiones bajo incertidumbre, métodos de Monte-Carlo, Robust
 Decisión Making y simulación exploratoria.
