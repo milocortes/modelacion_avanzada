@@ -13,8 +13,8 @@ title: |
 
 ![image](https://github.com/milocortes/modelacion_avanzada/raw/main/tareas/images/logo_itesm.jpg)
 
-\maketitle
-Carga académica, requisitos y equivalencias
+
+### Carga académica, requisitos y equivalencias
 ===========================================
 
 I.  **Carga académica** \[C-L-U:1.5-1.5-4\]: el curso tiene una carga
@@ -28,7 +28,7 @@ II. **Requisitos**: El alumno deberá haber aprobado los cursos
 
 III. **Equivalencias**: El curso no tiene equivalencias.
 
-Intención general y objetivos de aprendizaje
+### Intención general y objetivos de aprendizaje
 ============================================
 
 I.  **Intención general en el plan de estudios**: Es un curso avanzado
@@ -70,7 +70,7 @@ publicación y entrega de tareas.
 | **Sesión**  | **Tema**    | **Lecturas* | **Pub       | **EntTarea* |
 |             |             | *           | Tarea**     | *           |
 +-------------+-------------+-------------+-------------+-------------+
-| **Table  -- |             |             |             |             |
+| **Table  -- |             |             |             |             |
 | continuació |             |             |             |             |
 | n**         |             |             |             |             |
 +-------------+-------------+-------------+-------------+-------------+
