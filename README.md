@@ -31,7 +31,7 @@ III. **Equivalencias**: El curso no tiene equivalencias.
 ### Intención general y objetivos de aprendizaje
 ============================================
 
-I.  **Intención general en el plan de estudios**: Es un curso avanzado
+* I.  **Intención general en el plan de estudios**: Es un curso avanzado
     que busca que el alumno se familiarice con métodos de simulación
     empleados en el análisis de decisiones bajo incertidumbre.
 
@@ -47,8 +47,7 @@ I.  **Intención general en el plan de estudios**: Es un curso avanzado
     en tareas y laboratorios el alumno desarrollará habilidades básicas
     para la correcta implementación de estos métodos en un contexto de
     análisis de políticas públicas y/o de estudios de futuro.
-
-II. **Objetivos de aprendizaje**: El alumno aprenderá a emplear modelos
+* II. **Objetivos de aprendizaje**: El alumno aprenderá a emplear modelos
     de simulación en un marco de experimentación computacional que
     permite la construcción de un gran conjunto de escenarios. Así
     mismo, desarrollará las habilidades necesarias para analizar y
@@ -56,7 +55,7 @@ II. **Objetivos de aprendizaje**: El alumno aprenderá a emplear modelos
     experimentos. Finalmente, aprenderá a comunicar sus resultados
     empleando una narrativa acorde con el análisis prospectivo.
 
-Temario y calendario de actividades
+### Temario y calendario de actividades
 ===================================
 
 El cuadro [\[tab:tabla1\]](#tab:tabla1){reference-type="ref"
